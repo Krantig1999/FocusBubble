@@ -9,7 +9,7 @@ FocusBubble helps you stay productive by blocking distracting apps like WhatsApp
 - Typing animation effect
 
 ## 🎥 Demo Video
-
+https://github.com/user-attachments/assets/e6d66968-7347-469c-8f55-bada3599cea1
 
 
 ## 📲 How to Use
